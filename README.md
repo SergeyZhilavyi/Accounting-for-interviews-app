@@ -1,18 +1,19 @@
-# vue-project
+# Accounting-for-interviews-app
 
-This template should help get you started developing with Vue 3 in Vite.
+This application allows you to record and store information about completed interviews.<br>
+The application contains the following pages: 
+1. Authorization page.
+2. The page for creating information about the completed interview.
+3. A page for editing information about the completed interview, as well as fields describing the stages of the interview.
+4. A page with a list of created job interviews. Inside the table on the page, basic information about the created interviews is presented.
+5. A page with a diagram that visualizes the result of completed interviews.
 
-## Recommended IDE Setup
+## The technology stack used
+**Front:** Vue 3, PrimeVue, Pinia. <br>
+**Back:** Firebase. <br>
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Type Support for `.vue` Imports in TS
-
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+You can get the necessary information about working with Firebase: [https://firebase.google.com/).
 
 ## Project Setup
 
