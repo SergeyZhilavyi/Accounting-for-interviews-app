@@ -13,7 +13,7 @@ The application contains the following pages:
 **Back:** Firebase. <br>
 
 
-You can get the necessary information about working with Firebase: [https://firebase.google.com/).
+You can get the necessary information about working with Firebase: https://firebase.google.com/.
 
 ## Project Setup
 
